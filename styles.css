@@ -157,6 +157,7 @@ body {
 
 .switch_knob-neon {
   display: block;
+  cursor: pointer;
   width: 2em;
   height: auto;
 }
